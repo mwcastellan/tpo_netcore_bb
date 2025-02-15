@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6AcOthBt5XOcGXNirbzONooPwCLUsqgT+gQbFvlWhxc=",
+  "Source": "tpo_netcore_bb",
+  "BasePath": "_content/tpo_netcore_bb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

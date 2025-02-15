@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tpo_netcore_bb.props" />
+</Project>
